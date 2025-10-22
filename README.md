@@ -58,6 +58,6 @@ Hasilnya:
 # Jawaban
 <img width="1510" height="2230" alt="code23" src="https://github.com/user-attachments/assets/ecac0c3c-537e-4522-b5af-5e65801d15e7" />
 
-# Hasilnya
+# Hasilnya:
 <img width="1920" height="1080" alt="Cuplikan layar 2025-10-22 185501" src="https://github.com/user-attachments/assets/613fcbf4-781e-4874-bc86-ea73eda0ee4b" />
 
